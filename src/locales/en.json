@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Home",
+    "things": "Things",
+    "login": "Login",
+    "register": "Register",
+    "logout": "Logout"
+  },
+  "index": {
+    "info": "This is index page."
+  },
+  "things": {
+    "create": "Create thing",
+    "choose": "Choose",
+    "edit": "Edit",
+    "delete": "Delete",
+    "group": "group",
+    "lamp": "lamp",
+    "temperature": "temperature",
+    "humidity": "humidity",
+    "on": "on",
+    "off": "off",
+    "turn-on": "turn on",
+    "turn-off": "turn off",
+    "update": "Update",
+    "update-header": "Update Thing",
+    "name": "name"
+  },
+  "auth": {
+    "email": "email",
+    "password": "password",
+    "login": "Login",
+    "register": "Register",
+    "name": "name",
+    "confirm-password": "confirm password"
+  }
+}

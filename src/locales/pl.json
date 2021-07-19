@@ -1,0 +1,37 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "things": "Rzeczy",
+    "login": "Logowanie",
+    "register": "Rejestracja",
+    "logout": "Wyloguj sie"
+  },
+  "index": {
+    "info": "To jest strona główna."
+  },
+  "things": {
+    "create": "Stwórz urzadzenie",
+    "choose": "Wybierz",
+    "edit": "Edytuj",
+    "delete": "Usuń",
+    "group": "grupa",
+    "lamp": "lampa",
+    "temperature": "temperatura",
+    "humidity": "wilgotność",
+    "on": "wł",
+    "off": "wył",
+    "turn-on": "włącz",
+    "turn-off": "wyłącz",
+    "update": "Zaaktualizuj",
+    "update-header": "Edytuj rzecz",
+    "name": "nazwa"
+  },
+  "auth": {
+    "email": "email",
+    "password": "hasło",
+    "login": "Zaloguj się",
+    "register": "Wyloguj się",
+    "name": "imię",
+    "confirm-password": "potwierdź hasło"
+  }
+}
